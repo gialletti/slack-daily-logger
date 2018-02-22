@@ -1,0 +1,20 @@
+{
+  "name": "slack-daily-logger",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A simple Slack command to ease my workflow and have a look at their API",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Giammarco Galletti <dev@gialletti.com>",
+  "engines": {
+    "node": ">=4.2.0",
+    "npm": ">=2.14.7"
+  },
+  "dependencies": {
+    "axios": "^0.16.0",
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2"
+  }
+}

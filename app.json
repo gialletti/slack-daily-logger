@@ -1,0 +1,6 @@
+{
+  "name": "Slack Daily Logger",
+  "description": "Simple utility for Slack to improve daily workflow",
+  "repository": "https://github.com/gialletti/slack-daily-logger",
+  "keywords": ["slack", "bot", "command", "office"]
+}
